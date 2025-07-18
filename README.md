@@ -1,8 +1,13 @@
 # IMAGE-CLASSIFICATION-MODEL
 
 COMPANY: CodTech IT Solutions
+
 NAME: Yash Kumar
+
 INTERN ID: CT06DG602
+
 DOMAIN: Machine Learning
+
 DURATION: 6 Weeks 
+
 MENTOR: Neela Santosh
