@@ -62,6 +62,18 @@ Image Preprocessing: Normalization using .map() function
 
 Throughout training, the model shows improvement in both training and validation accuracy, reaching up to 78%+ validation accuracy after just 10 epochs.
 
+🛠️ Technologies Used
+
+Python 
+
+TensorFlow / Keras
+
+OpenCV
+
+Matplotlib
+
+Google Colab / Jupyter Notebook
+
 📉 Results & Visualization
 
 The training history is visualized using Matplotlib:
@@ -69,6 +81,16 @@ The training history is visualized using Matplotlib:
 Accuracy and loss curves for both training and validation sets
 
 Helps identify overfitting and underfitting trends
+
+🧪 Techniques Used to Improve Performance
+
+Batch Normalization: Stabilizes learning and accelerates convergence
+
+Dropout: Reduces overfitting by randomly turning off neurons
+
+Image Resizing: Standardized inputs for batch processing
+
+Normalization: Ensures pixel values range from 0 to 1
 
 📸 Custom Prediction
 
@@ -80,4 +102,4 @@ Images are preprocessed (resized and reshaped)
 
 The model predicts labels (0 for cat, 1 for dog)
 
-Final predictions are correct
+Final predictions are correct as per the test images.
